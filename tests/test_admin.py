@@ -33,5 +33,5 @@ def test_list_item(page):
     list_item.select_option("red")
     assert list_item.input_value() == "red"
 
-    page.wait_for_timeout(5000)
+    page.wait_for_timeout(3000)
 
