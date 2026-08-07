@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "name": "Sampada Test",
+            "email": "sampada@example.com",
+            "preferred_destination": "Pokhara, Kathmandu, Chitwan",
+            "trip_styles": [
+                "Adventure",
+                "Nature"
+            ],
+            "available_from": "2026-10-05",
+            "available_to": "2026-10-23",
+            "budget_min": "10000",
+            "budget_max": "30000",
+            "travel_mode": "Car",
+            "age_min": "18",
+            "age_max": "30",
+            "preferred_gender": "Any"
+        },
+        {
+            "name": "Alex Sharma",
+            "email": "alex@example.com",
+            "preferred_destination": "Mustang, Manang, Jomsom",
+            "trip_styles": [
+                "Adventure",
+                "Historical",
+                "Nature"
+            ],
+            "available_from": "2026-10-15",
+            "available_to": "2026-11-03",
+            "budget_min": "20000",
+            "budget_max": "50000",
+            "travel_mode": "Jeep",
+            "age_min": "20",
+            "age_max": "35",
+            "preferred_gender": "Male"
+        },
+        {
+            "name": "Priya Thapa",
+            "email": "priya@example.com",
+            "preferred_destination": "Nagarkot, Dhulikhel, Pokhara",
+            "trip_styles": [
+                "Relaxation",
+                "Nature"
+            ],
+            "available_from": "2026-11-01",
+            "available_to": "2026-11-20",
+            "budget_min": "5000",
+            "budget_max": "15000",
+            "travel_mode": "Bus",
+            "age_min": "18",
+            "age_max": "40",
+            "preferred_gender": "Female"
+        },
+        {
+            "name": "Rahul Gurung",
+            "email": "rahul@example.com",
+            "preferred_destination": "Chitwan, Lumbini, Pokhara",
+            "trip_styles": [
+                "Wildlife",
+                "Nature",
+                "Adventure"
+            ],
+            "available_from": "2026-11-15",
+            "available_to": "2026-12-05",
+            "budget_min": "10000",
+            "budget_max": "50000",
+            "travel_mode": "Mixed",
+            "age_min": "20",
+            "age_max": "40",
+            "preferred_gender": "Any"
+        }
+    ]
+}

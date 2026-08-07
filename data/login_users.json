@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Sampada Test",
+      "email": "sampada@example.com",
+      "password": "Test@12345",
+      "expected": "success"
+    },
+    {
+      "name": "Alex Sharma",
+      "email": "alex@example.com",
+      "password": "Test@12345",
+      "expected": "success"
+    },
+    {
+      "name": "Priya Thapa",
+      "email": "priya@example.com",
+      "password": "Test@12345",
+      "expected": "success"
+    },
+    {
+      "name": "Wrong Email Test",
+      "email": "rahulll@example.com",
+      "password": "Test@12345",
+      "expected": "failure"
+    },
+    {
+      "name": "Wrong Password Test",
+      "email": "sampada.test@example.com",
+      "password": "WrongPassword@999",
+      "expected": "failure"
+    },
+    {
+      "name": "Non Existing User",
+      "email": "notregistered@example.com",
+      "password": "Test@12345",
+      "expected": "failure"
+    }
+  ]
+}

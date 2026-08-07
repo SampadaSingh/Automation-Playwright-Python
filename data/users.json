@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Sampada Test",
+      "email": "sampada@example.com",
+      "password": "Test@12345",
+      "confirm_password": "Test@12345",
+      "location": "Kathmandu",
+      "dob": "2000-05-15",
+      "gender": "Female",
+      "bio": "Test user for TCFS automation.",
+      "interests": [1, 2, 3]
+    },
+    {
+      "name": "Alex Sharma",
+      "email": "alex@example.com",
+      "password": "Test@12345",
+      "confirm_password": "Test@12345",
+      "location": "Pokhara",
+      "dob": "1999-08-20",
+      "gender": "Male",
+      "bio": "Second test user for TCFS automation.",
+      "interests": [1, 3, 4]
+    },
+    {
+      "name": "Priya Thapa",
+      "email": "priya@example.com",
+      "password": "Test@12345",
+      "confirm_password": "Test@12345",
+      "location": "Chitwan",
+      "dob": "2001-02-10",
+      "gender": "Female",
+      "bio": "Third test user for TCFS automation.",
+      "interests": [2, 4, 5]
+    },
+    {
+      "name": "Rahul Gurung",
+      "email": "rahul@example.com",
+      "password": "Test@12345",
+      "confirm_password": "Test@12345",
+      "location": "Lalitpur",
+      "dob": "1998-11-25",
+      "gender": "Male",
+      "bio": "Fourth test user for TCFS automation.",
+      "interests": [1, 2, 5]
+    }
+  ]
+}
